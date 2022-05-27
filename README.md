@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning about blockchain 
 - 👯 I’m looking to collaborate on bockchain related projects and W3.js
 
-<img src="https://github.com/6D-pixel/6D-pixel/blob/main/a2.gif" width="400" height="200" />
+<img src="https://github.com/6D-pixel/6D-pixel/blob/main/a2.gif" width="500" height="200" />
 
-- 🤔 I’m looking for help with Solana and polygon
 - ⚡ Fun fact: More people have mobile phones than toilets
          
