@@ -1,4 +1,4 @@
-### Hi there :pray:
+### Hi there :wave:
 
 
 - 🔭 I’m currently working on opensouce contrubution
