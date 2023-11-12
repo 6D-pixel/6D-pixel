@@ -5,5 +5,5 @@
 
 <img src="https://github.com/6D-pixel/6D-pixel/blob/main/a2.gif" width="500" height="200" />
 
-- ⚡ Fun fact: More people have mobile phones than toilets
+- ⚡ <b>Fun fact</b>: <h4>The word “robot” comes from the Czech word “robota,” which translates to forced labor or work</h4>
          
