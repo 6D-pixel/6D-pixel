@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on opensouce contrubution
 - learning fullstack web dev
 - learing BlockChain Bitcoin Core
-- skills:
-         - Next js, MongoDB , TailwindCSS , Node JS
+* skills:
+  *  Next js, MongoDB , TailwindCSS , Node JS
 
 <img src="https://github.com/6D-pixel/6D-pixel/blob/main/a2.gif" width="500" height="200" />
 
