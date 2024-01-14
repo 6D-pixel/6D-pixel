@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on opensouce contrubution
 - learning fullstack web dev
-- learing BlockChain Bitcoin Core
-* skills:
+- learing BlockChain
+* **skills:**
 <p align="center">
   <img src="https://github.com/6D-pixel/6D-pixel/blob/main/tech-icons/HTML5.svg" alt="html" height="50" style="border-radius: 50%;" />
   <img src="https://github.com/6D-pixel/6D-pixel/blob/main/tech-icons/CSS3.svg" alt="css" height="50" style="border-radius: 50%;" />
