@@ -2,7 +2,7 @@
 
 - 🔭 opensouce contributer
 - fullstack web dev
-- BlockChain
+- BlockChain dev
 * **skills:**
 <p align="center">
   <img src="https://github.com/6D-pixel/6D-pixel/blob/main/tech-icons/HTML5.svg" alt="html" height="50" style="border-radius: 50%;" />
